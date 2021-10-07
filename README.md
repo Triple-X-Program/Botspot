@@ -28,5 +28,6 @@ It turns out Pi-Apps was just the beginning. Over time I found additional softwa
 - [Scratch 2](https://github.com/Botspot/scratch2) - When Adobe Flash Player was deprecated, Scratch 2 was removed from all RPiOS systems through an apt update. This annoyed many people, so I found a way to bring it back and make it work again.
 - Finally, I've written, or at least edited, all of the app-installers on [Pi-Apps](https://github.com/Botspot/pi-apps).
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Botspot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Triple-X-Program&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
